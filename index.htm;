@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Formating</title>
+</head>
+<body>
+<b>welcome to codingalW</b>
+<br>
+<strong>Welcome to Codingal</strong>
+<br>
+<i>Welcome to Codingal</i>
+<br>
+<em>Welcome to Codingal</em>
+<br>
+<mark>this is mark tag</mark>
+<br>
+<small> This is small tag </small>
+<br>
+<del>write this is del tag</del>
+</body>
+</html>
